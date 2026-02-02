@@ -17,6 +17,7 @@ Due to GitHub file size limits, large files are hosted externally:
  
 To run this model paste these the dowloaded folders as mentioned below
 
+
 AI Powered Weed Detection System for Sustainable Agriculture/
 │
 ├── crop_weed_detection_model/ # This folder contains trained model files
